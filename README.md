@@ -1,6 +1,6 @@
 # CSharp-Beginner-Projects 🚀
 
-This private repository contains beginner-level C# programs built as part of my 3-week internship at **Prodigy Technovations**.  
+This repository contains beginner-level C# programs built as part of my 3-week internship at **Prodigy Technovations**.  
 Each file represents a simple project designed to demonstrate core concepts like variables, loops, conditionals, and basic logic.
 
 ## 🔧 Projects Included
