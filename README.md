@@ -1,23 +1,27 @@
-# CSharp-Beginner-Projects 🚀
+# CSharp Beginner Projects
 
-This repository contains beginner-level C# programs built as part of my 3-week internship at **Prodigy Technovations**.  
-Each file represents a small project to demonstrate basic concepts like input/output, conditionals, loops, and data handling.
+This repository contains beginner-level C# programs created during my internship at Prodigy Technovations.
 
-## 🔧 Projects Included
+## Projects
 
-| Program Name   | Description                                               |
-|----------------|-----------------------------------------------------------|
-| **ATM.cs**     | A basic ATM menu system using switch cases               |
-| **Age.cs**     | Takes input age and checks if the person is an adult     |
-| **DWR.cs**     | Generates a Daily Work Report using user input           |
-| **Marksheet.cs** | Takes subject marks, calculates total, average & grade |
-| **grocery.cs** | A basic grocery billing system with item selection       |
+| File Name               | Description                                      |
+|-------------------------|--------------------------------------------------|
+| ATM.cs                  | Simple ATM system using switch-case              |
+| Age.cs                  | Checks if a number is positive or negative       |
+| DWR.cs                  | Division program with proper type conversion     |
+| Marksheet.cs            | Calculates average and grade from marks          |
+| grocery.cs              | Basic grocery billing system                     |
+| EmployeeManagement.cs   | OOP-based program using class and constructor    |
 
----
+## Topics Covered
 
-## 👨‍💻 Author
+- Input and Output
+- Conditionals and Loops
+- Arithmetic Operations
+- Methods
+- Object-Oriented Basics (Class, Object, Constructor)
 
-**Sivasriram Dz**  
-B.Tech Information Technology  
-Puducherry Technological University  
-GitHub: [sivasriramdz](https://github.com/sivasriramdz)
+## Author
+
+Sivasriram D  
+[GitHub Profile](https://github.com/sivasriramdz)
