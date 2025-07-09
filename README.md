@@ -23,5 +23,5 @@ This repository contains beginner-level C# programs created during my internship
 
 ## Author
 
-Sivasriram D  
+Sivasriram V
 [GitHub Profile](https://github.com/sivasriramdz)
